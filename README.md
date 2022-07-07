@@ -38,9 +38,9 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 ### Social
 
 <div class="social">
-<a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/daniel-pq-barros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/daniel-pq-barros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin: 0px 2px;"/></a>
+<a href="https://www.linkedin.com/in/daniel-pq-barros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin: 0px 2px;" /></a>
+<a href="https://www.linkedin.com/in/daniel-pq-barros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="margin: 0px 2px;"/></a>
 </div>
 
 ##
@@ -55,14 +55,3 @@ src="https://img.shields.io/github/followers/danielpqb?logo=github&style=for-the
 <a href="http://www.github.com/danielpqb"><img width="80%" src="https://activity-graph.herokuapp.com/graph?username=danielpqb&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/danielpqb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpqb&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<style>
-    .mainSkills img,
-    .otherSkills img {
-        margin: 0px 5px;
-    }
-
-    .social img {
-        margin: 0px 7px;
-    }
-</style>
