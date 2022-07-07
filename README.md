@@ -70,7 +70,7 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 
 ##
 
-<a href="https://www.github.com/danielpqb" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/danielpqb?tab=followers" target="_blank" rel="noreferrer"><img
         src="https://img.shields.io/github/followers/danielpqb?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 <a href="http://www.github.com/danielpqb"><img
