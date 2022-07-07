@@ -39,7 +39,7 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
         height="36" alt="MongoDB" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36"
         height="36" alt="C#" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"
         alt="C" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"
         height="36" alt="Python" />
@@ -60,6 +60,16 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
             width="36" height="36" />
     </a>
+    <a href="https://www.instagram.com/danielpqb/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+            width="36" height="36" />
+    </a>
+    <a href="https://www.instagram.com/danielpqb/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+            width="36" height="36" />
+    </a>
+
+    
 </div>
 
 ##
