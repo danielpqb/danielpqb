@@ -1,7 +1,7 @@
 ## Oi, eu sou o Daniel Barros!
 <div align="start">
   <a href="https://github.com/danielpqb">
-  <img height="180em" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/994615411788218530/994633251492745237/pixelDaniel03-Barba.png">
+  <img height="180em" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/994615411788218530/994633251492745237/pixelDaniel03-Barba.png"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielpqb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
