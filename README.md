@@ -48,20 +48,16 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 ### Social
 
 <div>
+    <a href="mailto:danielpqb@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+            width="36" height="36" />
+    </a>
     <a href="https://discord.com/users/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
             width="36" height="36" />
     </a>
     <a href="https://www.linkedin.com/in/daniel-pq-barros" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-            width="36" height="36" />
-    </a>
-    <a href="https://www.instagram.com/danielpqb/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
-            width="36" height="36" />
-    </a>
-    <a href="https://www.instagram.com/danielpqb/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
             width="36" height="36" />
     </a>
     <a href="https://www.instagram.com/danielpqb/" target="_blank" rel="noreferrer">
