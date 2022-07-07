@@ -1,8 +1,8 @@
 Hi! My name is Daniel 👋
-==========================
+##
 
 Full Stack Software Engineer Developer
------------------------------
+##
 
 I'm a 28 years old developer. I love to code and figure out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
@@ -14,8 +14,6 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * 🪁  I love sports and my favorite is Kitesurf
 
-<a href="https://www.github.com/danielpqb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/danielpqb?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Main Skills
 
@@ -36,7 +34,10 @@ src="https://img.shields.io/github/followers/danielpqb?logo=github&style=for-the
 
 <p align="left"> <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/danielpqb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCTF5MfUsa-9dFCOHFTA9xzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-## 
+##
+
+<a href="https://www.github.com/danielpqb" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/danielpqb?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 <a href="http://www.github.com/danielpqb"><img src="https://github-readme-stats.vercel.app/api?username=danielpqb&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="danielpqb's GitHub stats" /></a>
 
