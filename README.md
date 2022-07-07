@@ -17,7 +17,7 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 
 ### Main Skills
 
-<div display="inline-block">
+<div>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
         width="36" height="36" alt="Javascript" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
@@ -32,7 +32,7 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 
 ### Other Skills
 
-<div display="inline-block">
+<div>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
         width="36" height="36" alt="NodeJS" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36"
@@ -48,7 +48,7 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 ### Social
 
 <div>
-    <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer">
+    <a href="https://discord.com/users/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
             width="36" height="36" />
     </a>
@@ -56,7 +56,7 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
             width="36" height="36" />
     </a>
-    <a href="https://www.linkedin.com/in/daniel-pq-barros" target="_blank" rel="noreferrer">
+    <a href="https://www.instagram.com/danielpqb/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
             width="36" height="36" />
     </a>
