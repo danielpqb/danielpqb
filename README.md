@@ -38,9 +38,9 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 ### Social
 
 <div class="social">
-<a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin: 0px 2px;"/></a>
-<a href="https://www.linkedin.com/in/daniel-pq-barros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin: 0px 2px;" /></a>
-<a href="https://www.linkedin.com/in/daniel-pq-barros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="margin: 0px 2px;"/></a>
+<a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36"/></a>
+<a href="https://www.linkedin.com/in/daniel-pq-barros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>
+<a href="https://www.linkedin.com/in/daniel-pq-barros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36"/></a>
 </div>
 
 ##
