@@ -73,11 +73,11 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 <a href="https://github.com/danielpqb?tab=followers" target="_blank" rel="noreferrer"><img
         src="https://img.shields.io/github/followers/danielpqb?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-<img
-    src="https://github-readme-stats.vercel.app/api?username=danielpqb&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" />
+<a href="http://www.github.com/danielpqb"><img
+        src="https://github-readme-stats.vercel.app/api?username=danielpqb&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" /></a>
 
-<img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=danielpqb&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<a href="http://www.github.com/danielpqb"><img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=danielpqb&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpqb&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" />
+<a href="https://github.com/danielpqb"><img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpqb&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" /></a>
