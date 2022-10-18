@@ -15,7 +15,7 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 * 📧 You can contact me at [danielpqb@gmail.com](mailto:danielpqb@gmail.com)
 * 🧠 I'm learning Advanced Javascript and TypeScript programming languages
 * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
-* 🪁 I love sports and my favorite is Kitesurf
+* 🪁 I love sports and my favorite are kitesurf and basketball
 
 ### Main Skills
 
