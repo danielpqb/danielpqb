@@ -32,10 +32,9 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
         width="50" height="36" alt="CSS" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
         width="50" height="36" alt="Javascript" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-        width="50" height="36" alt="Linux" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
-        width="50" height="36" alt="Jest" />
+    
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        width="50" height="36" alt="AWS" />
 </div>
 
 ### Other Skills
@@ -43,6 +42,12 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"
         height="36" alt="MongoDB" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+        width="50" height="36" alt="Linux" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
+        width="50" height="36" alt="Jest" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+        width="50" height="36" alt="Redis" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"
         height="36" alt="C#" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
