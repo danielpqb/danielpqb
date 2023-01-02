@@ -20,29 +20,33 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 ### Main Skills
 
 <div>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-        width="50" height="36" alt="Javascript" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
         width="50" height="36" alt="Typescript" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"
         height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+        width="50" height="36" alt="NodeJS" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
         width="50" height="36" alt="HTML" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
         width="50" height="36" alt="CSS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+        width="50" height="36" alt="Javascript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+        width="50" height="36" alt="Linux" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
+        width="50" height="36" alt="Jest" />
 </div>
 
 ### Other Skills
 
 <div>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-        width="50" height="36" alt="NodeJS" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"
         height="36" alt="MongoDB" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"
         height="36" alt="C#" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-        width="50" height="36" alt="C" />
+        width="50" height="36" alt="C++" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"
         height="36" alt="Python" />
 </div>
