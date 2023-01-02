@@ -4,7 +4,7 @@ Hi! My name is Daniel 👋
 Full Stack Software Engineer Developer
 -----------------------------
 
-❗ [Check my web page](https://danielpqb-profile.vercel.app/) ❗
+### ❗ [Check my web page](https://danielpqb-profile.vercel.app/) ❗
 
 I'm a 29 years old developer who loves to code and figure out how to solve deep problems using high-edge tech.
 My main focus are front and back-end development, making applications that impact the life of thousands of users.
@@ -13,7 +13,7 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
 
 * 🌎 I live in Rio de Janeiro, Brazil
 * 📧 You can contact me at [danielpqb@gmail.com](mailto:danielpqb@gmail.com)
-* 🧠 I'm learning Advanced Javascript and TypeScript programming languages
+* 🧠 I'm learning Docker and AWS
 * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
 * 🪁 I love sports and my favorite are kitesurf and basketball
 
