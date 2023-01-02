@@ -32,13 +32,13 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
         width="50" height="36" alt="CSS" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
         width="50" height="36" alt="Javascript" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
-        width="50" height="36" alt="AWS" />
 </div>
 
 ### Other Skills
 
 <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+        width="50" height="36" alt="AWS" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"
         height="36" alt="MongoDB" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
