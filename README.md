@@ -1,13 +1,13 @@
 Hi! My name is Daniel 👋
 ==========================
 
-Full Stack Software Engineer Developer
+Full Stack Software Engineer
 -----------------------------
 
 ### ❗ [Check my web page](https://danielpqb-profile.vercel.app/) ❗
 
 I'm a 29 years old developer who loves to code and figure out how to solve deep problems using high-edge tech.
-My main focus are front and back-end development, making applications that impact the life of thousands of users.
+My main focus is making applications that impact the life of thousands of users.
 
 I am also a student at [Driven](https://www.driven.com.br/), a Software Engineering school.
 
