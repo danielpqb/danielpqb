@@ -32,8 +32,7 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
         width="50" height="36" alt="CSS" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
         width="50" height="36" alt="Javascript" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-        width="50" height="36" alt="TS" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
     
 </div>
 
