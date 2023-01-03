@@ -48,7 +48,7 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </div>
 
-### I work with
+### Work Tools
 
 <div>   
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
