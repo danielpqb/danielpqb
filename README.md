@@ -62,9 +62,6 @@ I am also a student at [Driven](https://www.driven.com.br/), a Software Engineer
     <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="TestingLibrary" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress" />  
-  </a>
-  <a href="#">
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
   </a>
   <a href="#">
