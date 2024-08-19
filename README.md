@@ -14,7 +14,7 @@ My main focus is making applications that impact the life of thousands of users.
 * 🧠 I have a degree at a Software Engineering school
 * 🤝 I'm open to collaborate on projects that have a high impact in peoples lives
 * 🎓 I'm passionate about education
-* 🏓 I love sports and my favorite are table tenis, kitesurf and basketball
+* 🏓 I love sports and my favorites are table tenis, kitesurf and basketball
 
 ### Main Skills
 
