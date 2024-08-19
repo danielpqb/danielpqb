@@ -20,7 +20,7 @@ My main focus is making applications that impact the life of thousands of users.
 
 <div>
   <a href="#">
-    <img src="https://img.shields.io/badge/next.js%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="NextJS" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
